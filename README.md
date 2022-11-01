@@ -1,6 +1,6 @@
  ### Hi, I’m Recep Emre 👋
  ### Frontend Developer
--I aim to add value to myself and the environment. I am in by
+- I aim to add value to myself and the environment. I am in by
 applying the educational infrastructure that I gained in the
 Computer Engineering undergraduate department of Sakarya
 University in my business life. I'm interested in Web
